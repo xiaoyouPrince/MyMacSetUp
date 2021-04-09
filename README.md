@@ -52,3 +52,9 @@ Android Studio: 可以开发 Android、 Flutter 等
 -	[mpv](https://mpv.io/) - 一个简洁的终端视频播放器。只需 `mpv 视频名` 即可在终端播放
 
 
+## 安装的命令
+
+- jq: 一个命令行内的 json 解析工具
+- tree: 查看目录的层次结构
+- node: nodejs
+
